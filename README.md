@@ -24,11 +24,9 @@ Favorite Quote: "I say we take off and nuke the entire site from orbit. It's the
 * Markdown Cheat Sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Languages Known
-| Language      | Level         | Preferance  |
-| ------------- |:-------------:| -----------:|
-| col 3 is      | right-aligned | $1600       |
-| col 2 is      | centered      |   $12       |
-| zebra stripes | are neat      |    $1       |
+| Language      | Level         | Preferance      |
+| ------------- |:-------------:| ---------------:|
+| R             | practiced     | preferred       |
+| Python        |less practiced`| can work it out |
 
-##
 
