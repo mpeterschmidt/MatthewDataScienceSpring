@@ -20,6 +20,9 @@ Favorite Quote: "I say we take off and nuke the entire site from orbit. It's the
 * Email: mpeterschmidt@umail.ucsb.edu
 * GitHub: https://github.com/mpeterschmidt
 
+## Other important Links
+* Markdown Cheat Sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ## Languages Known
 | Language      | Level         | Preferance  |
 | ------------- |:-------------:| -----------:|
@@ -27,5 +30,5 @@ Favorite Quote: "I say we take off and nuke the entire site from orbit. It's the
 | col 2 is      | centered      |   $12       |
 | zebra stripes | are neat      |    $1       |
 
-
+##
 
